@@ -14,4 +14,9 @@ Plain:  ABCDEFGHIJKLMNOPQRSTUVWXYZ
 
 Cipher: XYZABCDEFGHIJKLMNOPQRSTUVW
 
+## How to encrypt with the cipher
+When encrypting, a person looks up each letter of the message in the “plain” line and writes down the corresponding letter in the “cipher” line.
 
+Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
+
+Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
