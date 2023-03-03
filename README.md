@@ -20,3 +20,6 @@ When encrypting, a person looks up each letter of the message in the “plain”
 Plaintext:  THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG
 
 Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
+
+## Deciphering or Decrypting 
+Deciphering is done in reverse, with a right shift of 3.
